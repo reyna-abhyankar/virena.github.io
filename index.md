@@ -38,13 +38,14 @@ Looks like we already got pictures, links, and styling/quoting text done! Time t
 
 ### Code()
 
-I love the FizzBuzz problem because it's so simple, but people think too fast. Here's the solution:
+I love the FizzBuzz problem because it's so simple, but people think too fast. The objective is as follows:
+For all numbers from 1 to n, 
+   print "Fizz" if the number is divisble by 3
+   print "Buzz" if the number is divisible by 5
+   print "FizzBuzz" if the number is divisible by both 3 and 5
+   print the number if none of the above conditions apply 
+Here's the solution:
 ```
-# For all numbers from 1 to n, 
-#   print "Fizz" if the number is divisble by 3
-#   print "Buzz" if the number is divisible by 5
-#   print "FizzBuzz" if the number is divisible by both 3 and 5
-#   print the number if none of the above conditions apply
 def fizzbuzz(n):
     for i in range(1,n+1):
         if i % 3 == 0:
