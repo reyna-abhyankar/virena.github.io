@@ -52,7 +52,7 @@ def fizzbuzz(n):
             print("Fizz")
         if i % 5 == 0:
             print("Buzz")
-        if i % 3 != 0 and i % 5 != 0:
+        if (i % 3 != 0) and (i % 5 != 0):
             print(i)
 ```
 
@@ -61,3 +61,14 @@ I also love Breadth First Search, but I will save that for another day.
 ### README
 
 Yes, there is more to this site than meets the eye. Checkout the [README](README.md) of this project to find out what my favorite programming language is (if you already couldn't tell).
+
+### Lists
+
+Now, I do need an actual list because the task list doesn't really look that clean. So here is a list of my favorite 49ers players:
+- Fred Warner: Niners seem to always have some amazing linebackers
+- Brandon Aiyuk: Massive wingspan and real deep threat
+- Jimmy Garoppolo: Won 5 straight games at the end of 2017 and injected real hope into the organization (not to mention, took us to the Super Bowl???). He'll be playing out of his mind next year
+- Jason Verett: Man has battled every week this year and kept this defense alive
+- George Kittle: he's on every football fan's list. No questions asked, best tight end in the game.
+
+
