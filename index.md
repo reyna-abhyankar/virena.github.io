@@ -3,8 +3,9 @@
 Written entirely in Markdown, this page was created for a software engineering project course at the University I attend! My name is Viren Abhyankar, and I am a computer science student at UC San Diego.
 
 The following is a list of things I have to add to this site:
-- [ ]     Pictures
-- [ ]     Links
+
+- [ ] Pictures
+- [ ] Links
 - [ ] Headings
 - [ ] Styling text
 - [ ] Quoting text
@@ -17,7 +18,7 @@ The following is a list of things I have to add to this site:
 - [ ] Embedding Images
 - [ ] Embedding HTML
 
-Looks like I already have a task list!
+Looks like I already have a task list! However, it isn't exactly rendering the way I want it to. I'll probably have to debug that at a later time. 
 
 Let's start with **Headings**
 
@@ -33,4 +34,23 @@ Pretty powerful stuff. Here's a picture of his mom!
 
 ![](warnock.jpeg)
 
-Looks like we already got pictures, links, and styling/quoting text done! 
+Looks like we already got pictures, links, and styling/quoting text done! Time to move on to some code. 
+
+### Code
+
+I love the FizzBuzz problem because it's so simple, but people think too fast. Here's the solution:
+```
+# For all numbers from 1 to n, 
+#   print "Fizz" if the number is divisble by 3
+#   print "Buzz" if the number is divisible by 5
+#   print "FizzBuzz" if the number is divisible by both 3 and 5
+#   print the number if none of the above conditions apply
+def fizzbuzz(n):
+    for i in range(1,n+1):
+        if i % 3 == 0:
+            print("Fizz")
+        if i % 5 == 0:
+            print("Buzz")
+        if i % 3 != 0 and i % 5 != 0:
+            print(i)
+```
