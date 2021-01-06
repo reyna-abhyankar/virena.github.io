@@ -3,13 +3,12 @@
 Written entirely in Markdown, this page was created for a software engineering project course at the University I attend! My name is Viren Abhyankar, and I am a computer science student at UC San Diego.
 
 The following is a list of things I have to add to this site:
-[ ]     Pictures
-[ ]     Links
+- [ ]     Pictures
+- [ ]     Links
 - [ ] Headings
 - [ ] Styling text
 - [ ] Quoting text
 - [ ] Quoting code
-- [ ] Links
 - [ ] Section links
 - [ ] Relative links
 - [ ] Lists
@@ -33,3 +32,5 @@ Raphael Warnock had this to say after he defeated Republican candidate Kelly Loe
 Pretty powerful stuff. Here's a picture of his mom!
 
 ![](warnock.jpeg)
+
+Looks like we already got pictures, links, and styling/quoting text done! 
