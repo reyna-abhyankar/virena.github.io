@@ -71,4 +71,23 @@ Now, I do need an actual list because the task list doesn't really look that cle
 - Jason Verett: Man has battled every week this year and kept this defense alive
 - George Kittle: he's on every football fan's list. No questions asked, best tight end in the game.
 
+### Tables
 
+I love tables. Not as much as I love graphs, but I love tables. I also love football, so here's a table of Super Bowl opponents and eventual winners from since I started watching (this is all from memory, by the way):
+
+| Season | AFC Champion | NFC Champion | Winner |
+| ----------- | ----------- | ------- | ------ |
+| 2019      | Kansas City Chiefs       | San Francisco 49ers | KC |
+| 2018   | New England Patriots        | Los Angeles Rams | NE |
+| 2017 | New England Patriots | Philadelphia Eagles | PHI |
+| 2016 | New England Patriots | Atlanta Falcons | NE |
+| 2015 | Denver Broncos | Carolina Panthers | DEN |
+| 2014 | New England Patriots | Seattle Seahawks | NE |
+| 2013 | Denver Broncos | Seattle Seahawks | SEA |
+| 2012 | Baltimore Ravens | San Francisco 49ers | BAL |
+| 2011 | New England Patriots | New York Giants | NYG |
+| 2010 | Pittsburgh Steelers | Green Bay Packers | GB |
+| 2009 | Indianapolis Colts | New Orleans Saints | NO |
+| 2008 | Pittsburgh Steelers | Arizona Cardinals | PIT |
+| 2007 | New England Patriots | New York Giants | NYG |
+| 2006 | Indianapolis Colts | Chicago Bears | IND |
