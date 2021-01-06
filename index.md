@@ -91,3 +91,11 @@ I love tables. Not as much as I love graphs, but I love tables. I also love foot
 | 2008 | Pittsburgh Steelers | Arizona Cardinals | PIT |
 | 2007 | New England Patriots | New York Giants | NYG |
 | 2006 | Indianapolis Colts | Chicago Bears | IND |
+
+### Embedding HTML
+
+This is actually pretty easy. I'm gonna make all the text in the next paragraph blue.
+
+<div style="color:blue">
+I'm a politics enthusiast with an interest in using technology for social good. I started a mentorship program 9 months ago for students from my high school, and I've turned it into a nonprofit with the help of a few of my friends. 
+</div>
